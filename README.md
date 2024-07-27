@@ -1,4 +1,4 @@
-![Experiment Proof](https://github.com/user-attachments/assets/0aa5735f-b8c0-4c8e-be5a-afc187c8cedc)
+![Experiment Proof](https://github.com/user-attachments/assets/52fb9e3a-25bd-44fa-b38a-d2943315fc22)
 
 > Prove and disprove digital or physical scientific experiments.
 
